@@ -1,6 +1,6 @@
 cask "actionpulse" do
-  version "0.5.0"
-  sha256 "b292fbd3df02445fdcb1f07e77b511fabc2d68399d5ad00a3e94010acd7e982a"
+  version "0.6.0"
+  sha256 "57ef6dd67d66720f4fa75add298d6bc9abbc066c4075307a292d104a16e65f18"
 
   url "https://github.com/PylotLight/homebrew-actionpulse/releases/download/v#{version}/actionpulse.macOS.zip"
   name "ActionPulse"
